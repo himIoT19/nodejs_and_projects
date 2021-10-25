@@ -9,9 +9,7 @@
 5. JWT Basics
 6. Jobs API
 
-#### Course Exclusive
-
-[Node Tutorial and Projects Course](https://www.udemy.com/course/nodejs-tutorial-and-projects-course/?referralCode=E94792BEAE9ADD204BC7)
+### Node Tutorial and Projects
 
 7. File Upload (local and cloudinary)
 8. Send Email (nodemailer,ethereal and sendgrid )
@@ -20,4 +18,3 @@
 11. Auth Workflow (verify email, reset password)
 12. Sessions
 13. Yelp Clone
-# nodejs_and_projects
