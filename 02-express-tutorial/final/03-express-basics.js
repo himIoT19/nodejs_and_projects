@@ -1,5 +1,5 @@
-const express = require("express");
-const app = express();
+const express = require("express"); // import package
+const app = express(); // invoke package
 
 app.get("/", (req, res) => {
   console.log("user hit the resource");
